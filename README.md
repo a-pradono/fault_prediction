@@ -1,4 +1,4 @@
-## Summmary
+## Summary
 This project focuses on machine learning for machine fault prediction using sensor data. Dataset contains 5000 rows and 16 columns, some key insights from this project are:
 - Strong correlations occurred between vibration signals and machine faults
 - RPM illustrated an inverse relationship with machine faults
