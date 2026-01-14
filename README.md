@@ -9,8 +9,8 @@ This project focuses on machine learning for machine fault prediction using sens
 - Logistic regression model has been used to predict machine fault
 - The model showed better metrics compared other models and has interpretable coefficients
 - Backend has been built using FastAPI and consists of:
-  a. api/predict: predict fault type for a single input
-  b. api/trend: predict fault trends for multiple inputs
+  - api/predict: predict fault type for a single input
+  - api/trend: predict fault trends for multiple inputs
   
 ## Frontend
 - Frontent has been built using Streamlit
