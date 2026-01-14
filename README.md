@@ -1,5 +1,5 @@
 ## Summmary
-This project focuses on machine learning fault prediction using sensor data, some key insights from this project are:
+This project focuses on machine learning fault prediction using sensor data that contains 5000 rows and 16 columns, some key insights from this project are:
 - Strong correlations occurred between vibration signals and machine faults
 - RPM illustrated an inverse relationship with machine faults
 - Wavelet features shows minimum contribution to raw vibration signals
