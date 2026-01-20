@@ -17,7 +17,7 @@ This project focuses on machine learning for machine fault prediction using sens
 - Visualize some charts for EDA
 - Display predicted machine fault type and confidence
 
-## Architecture
+## Workflow
 
 <p align="center">
   <img width="900" height="500" src="https://github.com/a-pradono/fault_prediction/blob/main/image/architecture_workflow.png">
